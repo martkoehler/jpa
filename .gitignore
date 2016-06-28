@@ -1,0 +1,5 @@
+*.iml
+*.war
+*.jar
+*.class
+*idea*

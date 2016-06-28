@@ -1,0 +1,7 @@
+<dataset>
+    <BOSS ID="1" NAME="Gru"/>
+    <BOSS ID="2" NAME="OtherBoss"/>
+    <MINION ID="1" NAME="Bob" AGE="180" BOSS_ID="1"/>
+    <MINION ID="2" NAME="Stuart" AGE="230" BOSS_ID="1"/>
+    <MINION ID="3" NAME="Kevin" AGE="420" BOSS_ID="2"/>
+</dataset>
